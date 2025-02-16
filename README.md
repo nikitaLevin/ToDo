@@ -49,9 +49,6 @@ To run this project, you need a web browser that supports HTML5, CSS3, and JavaS
 - `css/style.css`: The main CSS file that contains the styles for the application.
 - `js/script.js`: The main JavaScript file that contains the logic for the application.
 
-## Contributing
-
-If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome all contributions!
 
 ## Acknowledgements
 
